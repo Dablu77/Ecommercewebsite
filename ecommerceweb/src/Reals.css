@@ -1,0 +1,13 @@
+.slider_main {
+  background-color: #eef8ff;
+}
+h2 {
+  position: fixed;
+  width: 100vw;
+  text-align: center;
+  padding: 11px;
+  background: #eef8ff;
+  /* border: 1px solid; */
+  /* z-index: +999; */
+  box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.6);
+}
